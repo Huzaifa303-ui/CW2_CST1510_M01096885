@@ -1,0 +1,31 @@
+id,name,source,category,size
+1,Dataset_1,External,Finance,424 MB
+2,Dataset_2,User Submitted,System Logs,50 MB
+3,Dataset_3,API,Operations,329 MB
+4,Dataset_4,API,Research,327 MB
+5,Dataset_5,API,Research,406 MB
+6,Dataset_6,Internal,Security,391 MB
+7,Dataset_7,Internal,Research,453 MB
+8,Dataset_8,External,Security,403 MB
+9,Dataset_9,Internal,Finance,262 MB
+10,Dataset_10,Internal,System Logs,18 MB
+11,Dataset_11,Internal,Research,65 MB
+12,Dataset_12,Internal,Finance,280 MB
+13,Dataset_13,Internal,Security,326 MB
+14,Dataset_14,Internal,Operations,218 MB
+15,Dataset_15,User Submitted,Operations,113 MB
+16,Dataset_16,User Submitted,Research,124 MB
+17,Dataset_17,API,Finance,367 MB
+18,Dataset_18,Internal,Research,316 MB
+19,Dataset_19,Internal,Operations,435 MB
+20,Dataset_20,External,System Logs,233 MB
+21,Dataset_21,User Submitted,Finance,315 MB
+22,Dataset_22,Internal,Security,462 MB
+23,Dataset_23,API,Security,414 MB
+24,Dataset_24,API,Research,487 MB
+25,Dataset_25,API,Operations,201 MB
+26,Dataset_26,API,Operations,90 MB
+27,Dataset_27,User Submitted,Finance,307 MB
+28,Dataset_28,User Submitted,Finance,282 MB
+29,Dataset_29,Internal,Operations,43 MB
+30,Dataset_30,Internal,Operations,459 MB
